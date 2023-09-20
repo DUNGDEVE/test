@@ -15,6 +15,8 @@ bongda_rules = [
      ['Premier League là giải đấu bóng đá nổi tiếng ở Anh.']),
     (r'(.*)(Champions League)(.*)',
      ['Champions League là giải đấu câu lạc bộ hàng đầu ở châu Âu.'])
+    (r'(.*)(Manchester United)(.*)',
+     ['Manchester United là  câu lạc bộ hàng đầu ở châu Âu.'])
 ]
 
 # Tạo chatbot sử dụng các quy tắc
